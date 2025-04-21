@@ -10,7 +10,7 @@ I am a React Native, Flutter, SwiftUI, UIKit, Obj-C developer with Figma design 
 *   ✉️  You can contact me at [kajbr88@gmail.com](mailto:kajbr88@gmail.com)
 *   🧠  I'm working on projects to make advanced Mobile Application project using React-Native, Flutter and SwiftUI.
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  Currently im learning Data Science, Machine Learning, AWS, Kubernetes and other things new technologies.
+*   ⚡  Currently im learning Data Science, Machine Learning, AWS, Kubernetes and other new technologies.
 *   Visit my Portfolio site to know more about me <>
 
   ### Skills 
