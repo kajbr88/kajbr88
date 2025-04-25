@@ -11,7 +11,7 @@ I am a React-Native, Flutter, SwiftUI, UIKit, Obj-C developer with Figma design 
 *   🧠  I'm working on projects to make advanced Mobile Application project using React-Native, Flutter and SwiftUI.
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  Currently im learning Data Science, Machine Learning, AWS, Kubernetes and other new technologies.
-*   ## Visit my Portfolio site to know more about me <https://github.com/kajbr88>
+*   ### Visit my Portfolio site to know more about me <https://github.com/kajbr88>
 
   ### Skills 
 <p align="left" style="background-color: #1E1E1E;">
