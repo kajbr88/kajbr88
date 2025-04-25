@@ -11,7 +11,7 @@ I am a React-Native, Flutter, IOS(SwiftUI, UIKit, Obj-C) developer with Figma de
 *   🧠  I'm working on advanced Enterprise level Mobile Applications projects using React-Native, Flutter and SwiftUI.
 *   🤝  I'm open to collaborating on Projects.
 *   ⚡  Currently im learning Data Science & Machine Learning, AWS, Cloud(Serverless), Microservices and other new technologies.
-*   ### Visit my Portfolio site to know more about me <[https://github.com/kajbr88](https://kajbr88.github.io/portfolio-site/)>
+*   ### Visit my Portfolio site to know more about me <[kajbr88](https://kajbr88.github.io/portfolio-site/)>
 
   ### Skills 
 <p align="left" style="background-color: #1E1E1E;">
