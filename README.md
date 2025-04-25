@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile App Developer
 --------------------
 
-I am a React-Native, Flutter, SwiftUI, UIKit, Obj-C developer with Figma design skills.
+I am a React-Native, Flutter, IOS(SwiftUI, UIKit, Obj-C) developer with Figma design skills and also have Frontend and Backend Web Development knowledge.
 
 *   🌍  I'm based in Bengaluru
 *   ✉️  You can contact me at [kajbr88@gmail.com](mailto:kajbr88@gmail.com)
-*   🧠  I'm working on projects to make advanced Mobile Application project using React-Native, Flutter and SwiftUI.
-*   🤝  I'm open to collaborating on Projects
-*   ⚡  Currently im learning Data Science, Machine Learning, AWS, Kubernetes and other new technologies.
+*   🧠  I'm working on advanced Enterprise level Mobile Applications projects using React-Native, Flutter and SwiftUI.
+*   🤝  I'm open to collaborating on Projects.
+*   ⚡  Currently im learning Data Science & Machine Learning, AWS, Cloud(Serverless), MicroServices and other new technologies.
 *   ### Visit my Portfolio site to know more about me <https://github.com/kajbr88>
 
   ### Skills 
