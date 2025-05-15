@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhijeet Kumar Barua
 ============================================================================================================================================
 
-Looking for Full Stack Mobile App Developer (Native iOS & Cross Platform) Role
-------------------------------------------------------------------------------
+Looking for Full Stack Mobile(React Native or Flutter) or (Native iOS) App Developer Role
+-----------------------------------------------------------------------------------------
 
 ### I am a Full Stack React-Native, Flutter and Native IOS(SwiftUI, UIKit, Obj-C) developer with Figma(Mobile & Web)-design skills and also have Fullstack(Frontend and Backend) Web Development knowledge.
 
