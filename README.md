@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Looking for Full Stack Mobile App Developer (Native iOS & Cross Platform) Role
 ------------------------------------------------------------------------------
 
-### I am a Full Stack React-Native, Flutter, IOS(SwiftUI, UIKit, Obj-C) developer with Figma(Mobile & Web)-design skills and also have Fullstack(Frontend and Backend) Web Development knowledge.
+### I am a Full Stack React-Native, Flutter and Native IOS(SwiftUI, UIKit, Obj-C) developer with Figma(Mobile & Web)-design skills and also have Fullstack(Frontend and Backend) Web Development knowledge.
 
 *   🌍  I'm based in Bengaluru
 *   ✉️  You can contact me at [kajbr88@gmail.com](mailto:kajbr88@gmail.com)
