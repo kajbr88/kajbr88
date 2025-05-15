@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhijeet Kumar Barua
 ============================================================================================================================================
 
-Mobile App Developer
---------------------
+Full Stack Mobile App Developer (Native iOS & Cross Platform)
+------------------------------------------------------------
 
-I am a React-Native, Flutter, IOS(SwiftUI, UIKit, Obj-C) developer with Figma design skills and also have Frontend and Backend Web Development knowledge.
+* I am a Full Stack React-Native, Flutter, IOS(SwiftUI, UIKit, Obj-C) developer with Figma(Mobile & Web)-design skills and also have Fullstack(Frontend and Backend) Web Development knowledge.
 
 *   🌍  I'm based in Bengaluru
 *   ✉️  You can contact me at [kajbr88@gmail.com](mailto:kajbr88@gmail.com)
