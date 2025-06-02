@@ -7,11 +7,10 @@ Looking for Full Stack Mobile(React Native or Flutter) or (Native iOS) App Devel
 ### I am a Full Stack React-Native, Flutter and Native iOS(SwiftUI, UIKit, Obj-C) developer with Figma(Mobile & Web)-design skills and also have Fullstack(Frontend and Backend) Web Development knowledge.
 
 *   🌍  I'm based in Bengaluru
-*   ✉️  You can contact me at [kajbr88@gmail.com](mailto:kajbr88@gmail.com)
-//*   🧠  I'm working on advanced enterprise level Full Stack Mobile Applications projects using React-Native, Flutter and SwiftUI.
+*   ✉️  You can contact me at [kajbr88@gmail.com](mailto:kajbr88@gmail.com)   
 *   🤝  I'm open to collaborating on Projects, Full time Job or remote work.
 *   ⚡  Currently im learning Data-Science & Machine-Learning, DevOps(AWS, Linux, Scripting, Jenkins, Ansible, GitOps, Docker, Kubernetes, CI-CD & Terraform.), Microservices, Cloud(Serverless)-(YAML & CDK Approach), Native Android Development using Java/Kotlin and other new technologies.
-*   ### Visit my Portfolio site to know more about me <[kajbr88](https://kajbr88.github.io/portfolio-site/)>
+*   🧠 ### Visit my Portfolio site to know more about me <[kajbr88](https://kajbr88.github.io/portfolio-site/)>
 
   ### Skills 
 <p align="left" style="background-color: #1E1E1E;">
